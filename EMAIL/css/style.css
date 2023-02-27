@@ -23,6 +23,10 @@ html{
     width: 600px;
 }
 
+.ms_w_400 {
+    width: 400px;
+}
+
 
 /* MEDIA QUERY */
 /* Breakpoint sm */
