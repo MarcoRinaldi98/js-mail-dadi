@@ -19,6 +19,9 @@ html{
     font-family: sans-serif;
 }
 
+.container{
+    width: 600px;
+}
 
 
 /* MEDIA QUERY */
